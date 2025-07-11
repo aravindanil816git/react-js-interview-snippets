@@ -1,1 +1,1 @@
-# js-interview-snippets
+# React+JS-interview-snippets
